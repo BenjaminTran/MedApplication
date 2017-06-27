@@ -1,33 +1,27 @@
-Down the hall I could hear the beeping of linear accelerators as they delivered
-radiation to cancer patients. They were ablating tumors with high energy photons
-with very high precision, a testament to how far technology has come. I was
-getting a tour of the radiation oncology clinic at MD Anderson Cancer Center
-where I was just starting my medical physics internship. As we moved down the
-hall, I could see patients exiting treatment rooms after they had received their
-radiation. I was surprised. They were laughing and joking with the technicians
-and most of them were walking out just fine on their own needing no assistance
-at all. If I did not know any better, I would not have suspected that they were
-cancer patients. I thought to myself, "This is the power of physics".
+I was on a tour of the radiation oncology clinic at MD Anderson Cancer Center
+for my medical physics internship. Down the hall I could hear the beeping of
+linear accelerators as they ablated tumors with high energy photons at very high
+precision. I could see patients exiting treatment rooms after they had received
+their radiation. I was surprised. They were laughing and joking with the
+technicians and most of them were walking out just fine on their own needing no
+assistance at all. If I did not know any better, I would not have suspected that
+they were cancer patients. I thought to myself, "This is the power of physics".
 
 I was exploring medical physics at the time because I was seeking to bridge a
 gap between two core interests, physics and impacting everyday human lives. In
 my four years studying physics, I excitedly learned about the fundamental
-phenomena of the universe from which I could understand complex systems such as
-the quantum mechanics of MRI scanners. It also took me abroad to CERN where I
-could contribute to one of the largest scientific collaborations in the world.
-But despite all of this, in my third year I realized that a career in particle
-physics research did not excite me. It seemed very isolated from the world
-because it was not clear how the direction of the field would motivate
-discoveries that would impact our everyday lives. Medical physics appeared to be
-a much better fit for me and worth learning about.
+phenomena of the universe and it took me abroad to CERN where I contributed to
+one of the largest scientific collaborations in the world. But in my third year,
+I realized that a career in particle physics research did not excite me. It
+seemed very isolated from the world because it was not clear how the direction
+of the field would motivate discoveries that would impact our everyday lives.
+Medical physics offered a combination that appeared to be a much better fit for
+me.
 
 As part of the internship, I was allowed to observe several radiation treatment
-procedures. I realized that medical physicists were not required to have much
-interaction with the patients, but I wanted to get the know the people who we
-were treating, so I requested to shadow a radiation oncologist. As I shadowed
-him, most cases were typical follow-ups or check-ups to evaluate treatment
-progress, but I will never forget the miraculous recovery of one of the
-follow-up patients. 
+procedures, but there was not much patient interaction. I requested to shadow a
+radiation oncologist, and I will never forget the miraculous recovery of one of
+the follow-up patients. 
 
 The physician pulled up the patient's pre-treatment CT scan from eighteen months
 ago. He pointed out that the lung cancer had metastasized with lesions up and
@@ -36,35 +30,42 @@ suspected that he had brought it up as a past case study, but then he surprised
 me, "Let's go check on him". I followed him to the exam room not sure what to
 expect because I knew with cancer that severe the chance of recurrence is high.
 We stepped into the room and his family was waiting with him. They greeted us
-with visibly tense smiles. The physician told some jokes and I could sense the
-worry that cut their laughter short. He asked about their lives, what the
-children were up to, just catching up. Finally, he arrived at the reason they
-were all here. He gathered us around the exam room computer and pulled up the
-patient's pre-treatment CT scan and then one from earlier that day. We all let
-out a sigh, theirs in relief, mine in awe. Every lesion was gone. His scan was
-clean and clear of the black spots besides a new one which the physician
-explained they were continuing to monitor but that it had not grown in size
-since the last visit. They thanked him with glowing smiles and unburdened
-laughter. After we left the room, he explained to me that the patient was part
-of a trial where immunotherapy was administered with concomitant radiation
-therapy. I expressed my amazement and the physician reciprocated. He assured me
-that it was not always like that but that case shows the potential. I asked him
-for literature on immunotherapy later that day still amazed that physics and
-medicine joined together had caused such a drastic change in the patient's life.
+with visibly tense smiles and he asked about their lives, what the children were
+up to, just catching up. Finally, he pulled up the patient's pre-treatment CT
+scan and then one from earlier that day. We all let out a sigh, theirs in
+relief, mine in awe. Every lesion was gone. His scan was clean and clear of the
+black spots besides a new one which the physician explained they were continuing
+to monitor but that it had not grown in size since the last visit. They thanked
+him with glowing smiles and unburdened laughter. After we left the room, he
+explained to me that the patient was enrolled in an immunotherapy with
+concomitant radiation trial. I expressed my amazement and the physician
+reciprocated. He assured me that it was not always like that but that case shows
+the potential. I asked him for literature on immunotherapy later that day amazed
+that physics and medicine joined together had caused such a drastic change in
+the patient's life.
 
 In the following months, I continued to shadow him observing all of the skills,
 beyond just vast knowledge, that it takes to be a physician. I was amazed by the
 array of interpersonal skills that he mustered to console patients; some crying
-after receiving news of a suspicious spot on the CT scan, one angry about
-backlogged procedures and miscommunication from hospital staff due to an error
-of bureaucratic nature. I heard patients tell their stories and all of the
-things that they wanted to do. He received so much thanks for giving their lives
-back and each time I was moved by the role he played. I realized that just
-wanting to make an impact on our everyday lives was a vague dream of mine. What
-I really wanted now was to be the person actively impacting people's everyday
-life. I wanted to do what physicians do on a daily basis.
+after receiving news of a suspicious spot on the CT scan, one fed up with an
+error of bureaucratic nature and wanting to switch hospitals. I heard patients
+tell their stories and all of the things that they wanted to do. I realized that
+just wanting to make an impact on our everyday lives was a vague dream of mine.
+What I really wanted now was to be the person actively impacting people's
+everyday life. I wanted to do what physicians do on a daily basis. 
 
-To me, being a physician is not just about healing sick patients; it is about
+But I was hesitant to leave behind particle physics research. I enjoyed writing
+analysis code to mine large amounts of data. I discussed my hesitation with the
+physician. He explained to me that I was actually in a unique position. Medicine
+was rapidly evolving with the quick improvements in technology of the recent
+decades. He assured me that if I pursue medicine, I could apply my skills in
+imaging or bioinformatics research to name a few; the possibilities were quickly
+opening up in this new age of medicine. Furthermore, the medical community
+needed more individuals with technical skills to continue the marriage of modern
+technology and medicine. I reflected upon the opportunities that lay ahead of me
+and my hesitation disappeared.
+
+As a physician, I want to do more than just heal sick patients; it is about
 giving back their lives to them and their family, their friends, and everyone
 who cares for them. It is about getting to know my patients' dreams and wishes
 and the life that they want after they get better because I want them to live it
@@ -74,79 +75,3 @@ contribute to the field of medicine in research and make discoveries that will
 impact more than just the relatively few people that I can care for in my
 lifetime. I know I may not be able to save all of my patients but at least I can
 give them a fighting chance.
-
-But I was hesitant to leave behind the life of particle physics research. It was
-fun, and I loved solving complex problems and writing analysis code. I arranged
-to talk with the physician after his rounds to discuss my hesitation. He
-explained to me that I was actually in a unique position. Medicine was rapidly
-evolving with the quick improvements in technology of the recent decades. He
-assured me that if I pursue medicine, I could apply my skills in imaging or
-bioinformatics research to name a few; the possibilities were quickly opening up
-in this new age of medicine. Furthermore, the medical community needed more
-individuals with technical skills to continue the marriage of modern technology
-and medicine. I saw the opportunities that lay ahead of me and my hesitation
-disappeared.
-
-===========================================================================
-
-Then, while we were setting up an elderly patient for her first treatment she
-began to have second thoughts. She was scared about the radiation and I could
-understand her fear, after all when you hear about radiation its almost never a
-good thing. After a few minutes of frustratingly insisting on the dangers of
-radiation, the patient demanded to speak to her radiation oncologist. Within a
-few minutes the physician was there to talk to her. He made her laugh with some
-inside jokes that they had, and her whole demeanor changed within a minute. He
-explained to her how much she needed this and how he wanted her to continue
-living so that she can see her children and her grandchildren for years to come.
-Finally, he asked her if she wanted to continue. She agreed with a heartwarming
-smile, lied down on the treatment table, and said thanked her physician. I was
-amazed by their relationship. She put her life in his hands and completely
-trusted him and only him with it and he was able to calm her down because he
-knows her story.
-
-
-It was not long until I faced another tragedy. My grandfather was diagnosed with
-Alzheimer's in my first year at university, but it had already advanced for
-sometime beforehand. He began to forget who I was even though he cared for me
-every summer during my childhood while my parents worked. Eventually, when I
-would visit, he smiled as if he knew me well but I could tell that he was
-struggling to remember who I was. However, we were blessed with my uncle, a
-physician. He knew how to take care of him especially towards the end when he
-noticed grandfather's difficulty breathing and coughing and suspected pneumonia.
-I could feel how much suffering my uncle lifted off our shoulders as he answered
-our questions and gave us care advice allowing my grandfather to live his last
-few years comfortably at home. I do not know what my grandfather's last thoughts
-were, but I am sure he was as close to peace as he could be in a familiar room,
-in the company of familiar faces. I thanked my uncle endlessly for all that he
-had done for everyone, but I also thanked him for showing me the impact a great
-physician can have on the life of the patient; on the many lives that surround
-the patient.
-
-Witnessing my uncle's role in my grandfather's care fundamentally changed what I
-wanted in my future career. While I enjoyed research in particle physics, the
-prospects of a career in pure physics research was no longer enough for me.
-Combined with my appreciation for people's lives and my love for physics,
-
-I began to observe a radiation oncologist, and I quickly realized medicine was
-the path for me. For each checkup, I could see the tension on the faces of the
-patient and family. I could sense the worry behind their smiles and laughter as
-the physician worked to put them at ease. Their fear reminded me of the fear my
-family and I felt when my grandfather would have breathing complications or
-would cough uncontrollably for hours. But the physician melted their worries by
-answering questions, explaining the treatment process, or giving care advice;
-just like my uncle had done for our family. Sometimes the physician did not have
-good news to deliver but even in those moments he gave the patient the power and
-assurance that he would be fighting alongside them. In the months that I
-observed him, I had never experienced so much joy in my life as I thought about
-the time that he gave back to patients who could now live their lives pursuing a
-future. 
-
-To me, being a physician is not just about healing sick patients; it is about
-giving back their life to them and their family, their friends, and everyone who
-cares for them. It is about getting to know my patients' dreams and wishes and
-the life that they want after they get better because I want them to live it all
-out. As a physician, I want to bring peace to terrified patients and families
-just like my uncle and the physician I observed. I want them to know that I will
-be fighting for them no matter how good or bad the prognosis. I may not be able
-to save all of my patients because at times life is more bitter than sweet...
-but at least I can get a say in the matter.
