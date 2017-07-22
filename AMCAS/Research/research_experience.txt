@@ -1,0 +1,23 @@
+My research experience began my freshman year at Rice University with Professor
+Wei Li, Ph.D. studying the correlation of particles produced in heavy-ion
+collisions at the Large Hadron Collider. The analysis of particle correlations
+allows one to measure properties of the quark-gluon plasma (QGP), the supposed
+state of the universe shortly after the Big Bang. QGP is produced in heavy-ion
+collisions between nuclei such as in lead-lead or proton-lead collisions. My
+first project was an independent analysis of the distribution of charged
+particles produced in collisions. The objective was to utilize the statistical
+method of Bayesian unfolding to remove, or deconvolve, detector distortions and
+background from observed data. In this experience, I learned to use ROOT, a data
+analysis framework program, and began to accumulate skills in computational data
+analysis methods.
+
+The summer following my sophomore year, I was given the opportunity to work for
+the European Organization for Nuclear Research (CERN) at the Large Hadron
+Collider (LHC) in Meyrin, Switzerland on a detector project. I was tasked with
+developing the software for the channel monitoring component of the online
+monitoring system for a new subdetector addition to the Compact Muon Solenoid
+(CMS) experiment. My channel monitoring component is in use at all times during
+LHC operation. In addition to improving my coding abilities and my knowledge of
+how the detector works, I gained experience working in a team environment and
+was responsible for calling meetings with members of the monitoring team to
+discuss development.

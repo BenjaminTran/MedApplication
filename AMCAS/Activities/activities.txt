@@ -1,13 +1,41 @@
 ASB
 
+Description:
+
 This was a service trip that focused on the gaps in early education for
 socioeconomically disadvantaged communities in the Houston area. We met once a
 week for several months before the trip itself, which took place over the Spring
-Break, and discussed the multi-faceted challenges that these communities face in
-their pursuit of education. During the trip, we volunteered at the Nabor House
-Community which runs a non-profit preschool for disadvantaged children as well
-as the Wesley Community Center which holds an after school program for early
-elementary school children to provide a safe environment for them.
+Break, and discussed the multi-faceted challenges that children in these
+communities face in their pursuit of education. During the trip, we volunteered
+at two community centers; one which runs a non-profit preschool and another
+which held an after school program for elementary school children to provide
+them a safe environment.
+
+Most Meaningful:
+
+I was talking to a group of children about the importance of school and
+education. When I asked for their favorite subject, a third grader named Juan
+enthusiastically said, "Math because of the patterns". I sensed passion in his
+answer, so the next day I derived for him the formula for the sum of an
+arithmetic series. Then I continued to give a simplified proof that the sum of
+all positive integers is -1/12, a peculiar result. He was enthralled by the math
+and wanted more. But he did not have access to a computer or the internet and
+his parents worked all day so he could not use the resources at the library. In
+that moment, I was struck by the tragedy of his situation-- all of his passion
+and interest may be wasted due to a lack of resources that I had taken for
+granted.
+
+This experience gave me context in the discussion about the socioeconomically
+disadvantaged. Economic and educational policies became more personal to me, as
+well as immigration policy because there were several students who were illegal
+immigrants. It was heartbreaking to hear the community center director talk
+about the impact of immigration policies on the children's lives; how they were
+painfully aware of the consequences of being an illegal alien. The experience
+humbled me and revealed how much of my privilege I had taken for granted. 
+
+================================================================================
+my psychology and sociology courses and the weekly meetings leading up to this
+trip all suggested that he was fighting an almost losing battle in education.
 
 Every psychology and sociology class at university taught me about generalized
 studies on the effects of a low socioeconomic status on the behavioral
@@ -16,22 +44,184 @@ ultimately impacting their adult life. Even though I knew that the generalized
 results of a study cannot be accurately applied to the individual, I did not
 have the context of a personal relationship with a child of this background to
 really understand what this means.
+================================================================================
 
-Juan was a third grader in my group, which I was talking to about school. When I
-asked for their favorite subject and why, he quickly said, "math because of the
-patterns". I saw sincerity in his answer, so the next day I derived for him the
-formula for the sum of an arithmetic series. Then I continued to give a quick
-proof that the sum of all positive integers is -1/12, a result used in the
-Casimir effect of quantum field theory. He was amazed and intrigued by what I
-had just shown him, and wanted to learn more math. In that moment, I was struck
-by the tragedy of their situation. All of the studies that I learned about in my
-psychology and sociology courses and the weekly meetings leading to this trip,
-all suggested that they were fighting an almost losing battle.
 
-This experience gave me context in the talk about the economically
-disadvantaged. All of a sudden, economic and educational policies became more
-important to me. But so did immigration policy because in our group of students
-there were some who were illegal immigrants. The program director talked to us
-about the impact of immigration policies on these children's lives, how they
-were painfully aware of what it meant to be an illegal alien. I realized my
-privilege and also the need to help underserved communities.
+CERN (not going to be one of my most meaningful)
+
+Description: 
+
+I designed and developed the online channel monitoring subsystem for the new
+subdetector addition to the CMS detector, which was undergoing an upgrade, at
+the Large Hadron Collider (LHC). As the main contact for the channel monitoring
+subsystem, I was tasked with independently developing the features of the system
+as well as giving weekly reports to the subdetector commission team to update
+them on my progress and the functionalities I was implementing in the system.
+
+or
+
+I designed and developed the online channel monitoring subsystem for the new
+subdetector addition to the CMS detector at the Large Hadron Collider. As the
+main contact for the channel monitoring subsystem, I was tasked with
+independently developing the features of the system as well as presenting weekly
+reports to the subdetector commission team on my progress and the
+functionalities I was implementing in the system. I learned to think about the
+needs of the team and independently developed features that would be useful when
+the system was live. This improved my ability to preemptively address potential
+issues and cater towards the needs of other roles without requiring their
+explicit input.
+
+Most Meaningful:
+
+I learned more than physics and programming from my work at the LHC. Undertaking
+the responsibility to produce this important component of the monitoring system
+pushed me to develop my collaboration and communication skills. I was required
+to breakdown the project into phases to accommodate both the development of
+other monitoring subsystems and commissioning tests for the subdetector.
+Furthermore, I called regular meetings with individuals from the monitoring team
+to determine what information they needed to me monitored. In addition, I
+learned to think about the needs of the team and independently developed
+features that would be useful when the system was live. This improved my ability
+to preemptively address issues and cater towards the needs of roles other than
+my own. Lastly, creating and presenting weekly progress reports in front of
+dozens of top particle physicists from elite universities sharpened my
+communication skills to provide the essential information.
+
+RESEARCHER IN WEI LI HEAVY-ION GROUP
+
+Description:
+
+Undergraduate researcher: Total hours: 784 Performed independent analyses of
+charged particle multiplicity distributions and extraction of elliptic flow of
+Xi baryons in proton-lead collisions leading to senior thesis. Developed
+technical and experimental research skills including programming in C-plus-plus
+and use of ROOT analysis framework
+
+Temp Research Assistant (Employed post-grad) Total hours: 2080 Hired full-time,
+I will expand my senior thesis into a publication as well as undertake
+responsibilities in other group analyses and detector projects. Tentative plans
+to return to CERN in 2018 to help redevelop the CMS Web Based Monitoring system.
+
+Most Meaningful:
+
+Professor Wei Li has given me numerous opportunities to experience the facets of
+research. Independent projects have developed my ability to overcome obstacles
+on my own and fostered my intellectual curiosity. The prospect of performing my
+own research and having my own lab has grown throughout my experience working
+with Professor Li. He has shown me that it is a rewarding experience to make new
+discoveries and to teach the next generation of researchers. As a long-term
+member of his lab, I had the opportunity to teach the newer undergraduate
+members of the lab research techniques that Professor Li had taught me. I
+discovered that I really enjoyed teaching them, and this encourages my interest
+in owning my own lab and researching my own interests. As a future
+physician-scientist, I will be able to make discoveries that benefit medicine
+and teach the next generation of researchers.
+
+Working with Professor Wei Li throughout my undergraduate years has opened me to
+the life of research. He has provided me with numerous opportunities to learn
+the basics of research through independent projects. 
+
+
+SHADOWING
+
+Description:
+
+Radiation Oncology: (July-August, 2016) & (November 2016-April 2017) Title:
+Assistant Professor Dr. Steven Lin, MD, Ph.D.
+
+Medical Physics: (June-August, 2016) Title: Assistant Professor Song Gao, Ph.D.
+Contact: songgao@mdanderson.org Description:
+
+During my summer internship in medical physics, I observed stereotactic body
+radiation therapy treatments, 4-D radiation therapy simulations, and attended
+planning clinics in which medical physicists, dosimetrists, and radiation
+oncologists review patient cases for treatment or induction into studies as well
+as treatment plans. They also present reports on the progress of current trials
+at these meetings.
+
+Most Meaningful:
+
+Medical physicists and radiation oncologists work as a team with dosimetrist to
+treat patients. Observing both fields allowed me to follow patients through
+their treatment beginning with a consultation, then radiation therapy and weekly
+checkups, and finally long term follow-ups. I found that keeping up with the
+patient throughout the whole process was a very rewarding experience. Dr. Lin
+showed me how to read scans and taught me about the conditions that afflicted
+his patients by initially letting me figure out the causes of symptoms before
+explaining it in full detail. My shadowing experience with Dr. Lin was
+complemented by my observations in medical physics, in which I learned the
+technical side of the imaging and treatment methods employed. Ultimately, my
+experience shadowing Dr. Lin piqued my interest in the medical sciences and
+patient care. 
+
+
+
+RICE ALL-STARS
+
+Description:
+
+Rice All-Stars is a student organization in which volunteers play basketball
+with individuals who have autism or Down syndrome. As a one-on-one buddy, I was
+paired with a special-needs individual for the duration of the season. I chose
+to volunteer because I wanted to be more connected with this seemingly
+indiscriminate illness, which my family was fortunate enough to not experience,
+and use my love for basketball in a helpful way. I am more aware of the care and
+compassion these individuals need and I have developed a personal connection to
+these syndromes.
+
+================================================================================
+I also gained an understanding and appreciation for the patience and love that
+is required when taking care of an individual with a learning disability.
+================================================================================
+
+
+NEW LIFE FELLOWSHIP
+
+Description:
+
+A Christian fellowship in which I participated in the Oman House Church. I did
+not grow up in a religious environment, so I was interested in exploring
+Christianity at university. I have become more open-minded about religion and
+have made many lasting relationships through this ministry. It has also allowed
+me to connect with patients fighting for their lives during my shadowing
+experience. Additionally, I was secretary for my House Church and recorded the
+word time and prayer requests of the members. I have also assisted in morning
+service breakfast prep as well as other events at the affiliated church such as
+the annual crawfish festival.
+
+
+IM ATHLETICS AND DANCE
+
+Description:
+
+IM Sports: Total hours: 384 (August 2013 - May 2017) I played in basketball and
+volleyball leagues at Rice. Attended weekly practices for each sport as well as
+played for leisure.
+
+Leagues outside of Rice: Total hours: 70 (January 2015- May 2017) I played in
+basketball and football leagues at New Life Fellowship.
+
+Funkonomics: Total hours: 72 (January - December 2016) Contact name/Title: Steve
+Kuei/Artistic Director Email: kuei.steve@rice.edu Learned and practiced
+choreography to current hip hop songs at workshops for approximately two hours a
+week. I participated in a dance routine in the Rice Chinese Student Association
+Lunar New Year Festival.
+
+STRESS RELIEF AND INTELLECTUAL PURSUITS
+
+Description:
+
+Fingerstyle guitar Hours: 360 I recreationally play fingerstyle acoustic music
+from Andy McKee, Antoine Dufour, and other artists. I have been playing since
+high school.
+
+Running and weightlifting Hours: 384 Exercise keeps my thinking clear and is a
+very effective way for me to relieve stress. I also do it with an eye to long
+term health and to keep in shape for basketball and other sports.
+
+Programming, math, and physics Hours: 360 In my free time I learn LaTeX,
+Cplusplus, and python languages as well batch, Bash, and Zsh scripting. These
+skills are very useful in my research for computational analysis. I also learn
+physics and math with an eye towards application in medicine.
+
+

@@ -1,80 +1,90 @@
- Down the hall I could hear the beeping of linear accelerators as they ablated
- tumors using high energy photons with pinpoint precision. I was on a tour of
- the radiation oncology clinic at MD Anderson Cancer Center for my medical
- physics internship. I could see cancer patients exiting treatment rooms after
- they had received their radiation. I was surprised. They were laughing and
- joking with the technicians and most of them were walking without any need of
- assistance, a stark contrast to the gravity of their diagnosis. I thought to
- myself, "This is the power of physics".
+Down the hall I heard the beeping of linear accelerators as they ablated tumors
+using high-energy photons with pinpoint precision. I witnessed the power of
+physics in medicine as cancer patients exited treatment rooms after receiving
+therapy. They were laughing, they were joking and most of them were walking
+without any need of assistance, a stark contrast to the gravity of their
+condition.
 
-I was exploring medical physics seeking to bridge a gap between my two core
-interests -- physics and impacting everyday human lives. During my study of
-physics, I excitedly learned about the fundamental phenomena of the universe,
-from the motion of protons in an electric field, to the quantum dynamics of its
-spin, and eventually leading way to the principles of the MRI.  My journey in
-physics even took me abroad to CERN where I contributed to one of the largest
-scientific collaborations in the world. Despite these amazing experiences, I
-realized that a career in particle physics research did not excite me. It seemed
-isolated from the world because it was not clear how the direction of the field
-would motivate discoveries that would impact our everyday lives. Medical physics
-offered a combination that appeared to be a much better fit for me.
+I interned in medical physics at MD Anderson Cancer Center because I was seeking
+to bridge a gap between my two core interests -- physics and impacting everyday
+human lives. During my study of physics, I fervently learned about the
+fundamental phenomena of the universe, from the motion of protons in an electric
+field, to the quantum dynamics of its spin and eventually leading to the
+principles of the MRI. My journey in physics brought me to the Large Hadron
+Collider, the largest particle accelerator in the world, where I helped design
+the online monitoring system for the detector. My in-depth experiences in
+physics has shown me its power, but I really wanted to explore its integration
+with healthcare delivery. Through my medical physics internship, I observed
+radiation treatment procedures and the miraculous potential of physics combined
+with modern medicine. I also discovered even stronger desires to interact with
+the patients and play a long-term role in their therapy from consultation to
+post-treatment follow-up leading to my shadowing experience with Dr. Steven Lin,
+the radiation oncologist for several of the patients I observed. I will never
+forget the miraculous recovery of a patient he treated that highlighted the
+power of medicine.
 
-As part of the internship, I was allowed to observe radiation treatment
-procedures. I wanted to see physics in action, but I discovered a desire to
-interact with the patients even more. I requested to shadow a radiation
-oncologist, and will never forget the miraculous treatment outcome of one of the
-follow-up patients. 
+Dr. Lin enlarged the patient's FDG scan on the screen, it was from eighteen
+months ago. Over a dozen FDG avid lesions, indicated by black regions, peppered
+the mediastinum, his lung cancer had aggressively metastasized. My heart sank
+and I wondered how long ago he had passed away, but before I could ask, Dr. Lin
+stood up and said, "Let's go check on him". I did not realize that he was there
+for a follow-up. The patient and his family greeted us with visibly tense smiles
+and nervous handshakes; they were waiting to review the follow-up scan. Dr.
+Lin's lighthearted and jovial personality began to ease them, and as he told
+jokes, the tension in their bodies melted and their laughter lost almost all
+traces of distress. Then, he pulled up an FDG scan with today's date. We all let
+out a sigh -- theirs in relief, mine in awe. His scan was clear of cancer. Their
+eyes glistened with tears as they thanked Dr. Lin for returning their lives back
+to a sense of normalcy. Afterwards, he explained to me that the results were due
+to a trial protocol where immunotherapy is administered with concurrent
+radiation therapy. In curiosity, I asked him for literature on this combined
+treatment method. As I read the papers, I was impressed by the potential of
+joining radiation physics with pharmaceutical medicine; it saved the patient
+from certain death. 
 
-The physician pulled up the patient's pre-treatment CT scan from eighteen months
-ago. He pointed out the lung cancer that had metastasized with lesions up and
-down his mediastinum indicated by more than a dozen black spots on the scan.
-Given the grave prognosis, I suspected the patient had passed away and he had
-brought it up as a case study. However, much to my surprise, he said, "Let's go
-check on him". I followed him to the exam room unsure of what to expect because
-I knew the chance of recurrence is high for widely metastasized cancers. The
-patient and his family greeted us with visibly tense smiles and quick, nervous
-handshakes. I noticed the physician's lighthearted and jovial personality
-beginning to ease them. As he joked with them, the tension in their bodies
-melted and their laughter lost all traces of nervousness. Then, he pulled up the
-patient's CT scans, the one he had shown me and one from earlier that day. We
-all let out a sigh -- theirs in relief, mine in awe. His scan was clean and
-clear of the black spots besides one which the physician explained was being
-monitored but had not grown in size since the last visit six months ago.
-Everyone thanked the physician for saving not just the patient's life but all of
-theirs as well. He returned their lives back to a sense of normalcy. After we
-left the room, he explained that the results were due to the patient's
-enrollment in an immunotherapy with concomitant radiation trial to test the
-efficacy of joining these separate treatment methods. I expressed my amazement
-and the physician reciprocated. He assured me that results like those did not
-occur often but that case shows the potential of the treatment protocol. In
-curiosity, I asked him for literature on radiation and immunotherapy. I never
-considered the joining of medicine and physics in such an intimate manner.
-Amazed by the power of this union, I began to consider medicine as a career.
-
-In the following months, I continued to shadow him and observed the array of
-interpersonal skills that it takes to be a physician. I was amazed by his
-ability to console patients; some crying after receiving news of a suspicious
-spot on the CT scan, others fed up with backlogged procedures due to
-bureaucratic errors. I heard patients tell their stories and talk about their
-goals, goals that they could do now that he made them cancer free. Interacting
-with the patients clarified my desire to impact our everyday lives. I wanted to
-be the person directly impacting people's lives; to give them hope and assurance
-in their time of need. While my desire to pursue medicine grew, I was hesitant
-to leave behind particle physics research. I enjoyed writing analysis code and
-exploring the most fundamental aspects of nature. I discussed my hesitation with
-the physician. He thought my interests were not conflicting at all, to the
-contrary they put me in a unique position. Medicine is rapidly evolving with the
-quick improvements in technology of the recent decades. He explained to me that
-if I pursued medicine, I could apply my honed problem solving and programming
-skills to improve medicine by continuing its integration with developing
-technologies, and encouraged me to consider becoming a physician-scientist to
-use my research background as a strong foundation for making substantial and
-impactful discoveries. I reflected upon all the opportunities ahead of me and my
-hesitation disappeared.
+After the internship, I continued to shadow Dr. Lin and observed the need for
+excellent bedside manners. More often than I had hoped, Dr. Lin would deliver
+crushing news of suspicious activity on scans to terrified patients, and almost
+every time, I saw tears in their eyes and fought them from forming in mine. But,
+Dr. Lin gave them options, assured them that there were ways to fight the
+cancer. He reminded both the patient and me that cancer was not the death knell
+it once was, not with the capabilities of modern medicine. His impeccable
+bedside manner showed when he calmed a patient who was infuriated, fists
+clenched and threatening to change hospitals due to numerous errors in his
+treatment schedule. I watched Dr. Lin as he acknowledged the patient's
+frustration, and showed his compassion and commitment to providing the patient
+with the best treatment possible. Within ten minutes the patient was thanking
+Dr. Lin for convincing him to stay. The need for superb bedside manner was never
+demonstrated more clearly than in that situation; I was astonished. Throughout
+my patient interaction experiences I wanted to comfort the patient and tell them
+that they are in good hands, but I remained silent allowing Dr. Lin to provide
+words of comfort. Hearing their struggles and pain moved me, and so has
+witnessing their triumphs over cancer. I want to impact the lives of patients by
+giving them assurance and the ability to fight illness in their greatest time of
+need. 
 
 As a physician, I want to do more than just heal sick patients. I want to know
 them, truly care for them, and give them the chance to live their life again. I
-want to explore medicine and apply my skills to make discoveries that can impact
-more than just the patients that I will be able to personally care for in my
-lifetime. I know I may not be able to save all of my patients but at least I can
-give all of them a fighting chance.
+want to explore medicine and apply my background in physics and research towards
+its advancement, so I can impact more than just the patients I will personally
+care for in my lifetime. I cannot save all of my patients, but at least I can
+give them a fighting chance.
+
+================================================================================
+
+He explained that I was in a unique position. Medicine is rapidly evolving to
+include the technological improvements of recent decades with no signs of
+slowing down. I can directly contribute towards this integration using my
+programming skills and my knowledge in physics. He encouraged me to consider
+becoming a physician-scientist to use my research background as a strong
+foundation for making substantial and impactful discoveries. I reflected upon my
+place in the future of medicine and all hesitation disappeared. 
+
+In addition to working in the clinic, I also want to apply my research skills.
+My background in physics and computational research provides me with a unique
+perspective to tackle problems of modern medicine which are increasingly
+technologically involved.
+
+I know I may not be able to save all of my patients but at least I can give all
+of them a fighting chance.
+
