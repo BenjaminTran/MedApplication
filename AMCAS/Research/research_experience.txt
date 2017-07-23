@@ -1,23 +1,70 @@
 My research experience began my freshman year at Rice University with Professor
-Wei Li, Ph.D. studying the correlation of particles produced in heavy-ion
+Wei Li, Ph.D. in the Nuclear and Particle Physics division. Professor Li's
+research group studies the correlation of particles produced in heavy-ion
 collisions at the Large Hadron Collider. The analysis of particle correlations
 allows one to measure properties of the quark-gluon plasma (QGP), the supposed
-state of the universe shortly after the Big Bang. QGP is produced in heavy-ion
-collisions between nuclei such as in lead-lead or proton-lead collisions. My
-first project was an independent analysis of the distribution of charged
-particles produced in collisions. The objective was to utilize the statistical
-method of Bayesian unfolding to remove, or deconvolve, detector distortions and
-background from observed data. In this experience, I learned to use ROOT, a data
-analysis framework program, and began to accumulate skills in computational data
-analysis methods.
+state of the universe shortly after the Big Bang.
 
-The summer following my sophomore year, I was given the opportunity to work for
-the European Organization for Nuclear Research (CERN) at the Large Hadron
-Collider (LHC) in Meyrin, Switzerland on a detector project. I was tasked with
-developing the software for the channel monitoring component of the online
-monitoring system for a new subdetector addition to the Compact Muon Solenoid
-(CMS) experiment. My channel monitoring component is in use at all times during
-LHC operation. In addition to improving my coding abilities and my knowledge of
-how the detector works, I gained experience working in a team environment and
-was responsible for calling meetings with members of the monitoring team to
-discuss development.
+My first project with Professor Li was an independent analysis of the
+distribution of charged particles produced in collisions. The objective was to
+utilize the statistical method of Bayesian unfolding to remove, or deconvolve,
+detector distortions and background from observed data. In this experience, I
+learned to use ROOT, a data analysis framework built on C-plus-plus that is used
+for particle physics analyses, and began to accumulate skills in computational
+data analysis methods.
+
+The summer after my sophomore year, I received a grant to work for the European
+Organization for Nuclear Research (CERN) at the Large Hadron Collider (LHC) in
+Meyrin, Switzerland on a detector project for ten weeks. I was tasked with
+developing the software for the channel monitoring system for a new subdetector
+addition to the Compact Muon Solenoid (CMS) experiment as well as performing
+tracker algorithm efficiency studies for Professor Li's research group. As a
+result, I expanded my programming skills in several languages including
+C-plus-plus and python. This experience also developed my leadership and
+teamwork skills through the undertaking of large responsibilities. For instance,
+my channel monitoring system is in use at all times during LHC operation, making
+it a vital asset to the monitoring team. Also, as the main developer for the
+system, I called meetings with the monitoring team to discuss the feature
+developments of the system and presented reports to the subdetector commission
+committee.
+
+Upon my return from CERN, I worked on an analysis project to measure the
+elliptic flow of a particle called the Xi baryon in proton-lead collisions. The
+goal was to test a model of the QGP, which assumed hydrodynamic behavior. If the
+hydrodynamic assumption were correct, then the elliptic flow of different
+particle species would exhibit an inverse relationship with their mass.
+I planned to compare the elliptic flow of the Xi baryon to two other particle
+species, the Kaon and Lambda, that had been previously measured. Since the
+elliptic flow of the Xi had not been measured before, I was required to build up
+the analysis from scratch. I developed the foundations of this analysis
+throughout my junior year writing the analysis code for the reconstruction of Xi
+baryons from collision data.
+
+The summer following my junior year, I decided to suspend my work with Professor
+Li to explore medical physics through an internship with MD Anderson Cancer
+Center. I worked with Professor Song Gao, Ph.D. on the qualification of a 2D
+ionization chamber array (ICA) for beam quality assurance of linear
+accelerators. The 2D ICA provided a fast method to measure beam profiles and
+radiation dose. Therefore, it was intended to replace the current quality
+assurance scanner, which required a tedious setup procedure. I applied the
+programming skills I obtained from my particle physics research to write batch
+scripts to extract the data from the collection software and analyze them in
+Excel. We found that the 2D ionization chamber performs on par with the previous
+scanner and qualifies as an appropriate replacement. The analysis is currently
+being written into a publication.
+
+In my senior year, I resumed my work with Professor Li on the Xi analysis
+project, which became my undergraduate thesis. I demonstrated that there is an
+inverse relationship between the elliptic flow of the Xi, Kaon, and Lambda
+particles with their mass as expected by the hydrodynamic assumption. I
+presented a poster of my work at the Rice Undergraduate Natural Sciences
+Symposium. In addition, I wrote my work in to a thesis and successfully defended
+it. I also received the Claude W. Heaps Prize from the Department of Physics and
+Astronomy for my work.
+
+Professor Li has since hired me as a full-time researcher for the next year.
+During this time, I will expand my thesis work to include the elliptic flow
+measurement of the Omega baryon providing a complete analysis that I will
+publish. There are tentative plans for my return to CERN where I will assist in
+the redevelopment of the CMS Web Based Monitoring system from January to June of
+2018.

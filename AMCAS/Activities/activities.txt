@@ -64,7 +64,7 @@ I designed and developed the online channel monitoring subsystem for the new
 subdetector addition to the CMS detector at the Large Hadron Collider. As the
 main contact for the channel monitoring subsystem, I was tasked with
 independently developing the features of the system as well as presenting weekly
-reports to the subdetector commission team on my progress and the
+reports to the subdetector commission committee on my progress and the
 functionalities I was implementing in the system. I learned to think about the
 needs of the team and independently developed features that would be useful when
 the system was live. This improved my ability to preemptively address potential
