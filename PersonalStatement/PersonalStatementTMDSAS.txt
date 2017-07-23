@@ -1,9 +1,8 @@
 Down the hall I heard the beeping of linear accelerators as physicians ablated
 tumors using high-energy photons with pinpoint precision. I witnessed the power
 of physics in medicine as cancer patients, just finishing their first treatment,
-exited rooms remarking on the painlessness of the procedure. I could not help
-but smile knowing that physics had given them an option they could be optimistic
-about.
+remarked on the painlessness of the procedure. I could not help but smile
+knowing that physics had given them an option they could be optimistic about.
 
 I interned at MD Anderson Cancer Center in medical physics because I was seeking
 to bridge a gap between my two passions-- physics and impacting everyday human
@@ -18,13 +17,14 @@ healthcare and see its impact on the lives of those who are ill. Throughout my
 medical physics internship, I observed radiation treatment procedures alongside
 the medical physicists, and the marvelous potential of physics combined with
 modern medicine. However, during most of the treatment, the patient was isolated
-in the radiation room restricting all interactions to the several minutes spent
-prepping the patient for treatment. I discovered strong desires to interact with
-the patients and play a long-term role in their therapy, from consultation
-sessions to post-treatment follow-up. These desires led to my shadowing
-experience with Dr. Steven Lin, MD, Ph.D., a radiation oncologist. While having
-great experiences with Dr. Lin, I will never forget the miraculous recovery of a
-patient he treated that highlighted the power of medicine.
+in the radiation room restricting all patient interactions to the several
+minutes spent prepping for treatment. I discovered strong desires to experience
+more interactions with patients and observe the long-term role physicians have
+in the patient's therapy, from consultation sessions to post-treatment
+follow-up. These desires led to my shadowing experience with Dr. Steven Lin, MD,
+Ph.D., a radiation oncologist. While having great experiences with Dr. Lin, I
+will never forget the miraculous recovery of a patient he treated that
+highlighted the power of medicine.
 
 Dr. Lin enlarged the patient's 18-month-old FDG scan on the screen. Over a dozen
 FDG avid lesions peppered the mediastinum, indicating aggressively metastasized
@@ -32,21 +32,22 @@ lung cancer. My heart sank as I wondered how long ago the patient must have
 passed away-- but before I could ask, Dr. Lin stood up and said, "Let's go check
 on him." The patient and his family were waiting to review the follow-up scan;
 they greeted us with visibly tense smiles and nervous handshakes. Dr. Lin's
-jovial personality began to ease them and melt the tension in their bodies.
-Then, he pulled up an FDG scan with today's date, and we all let out a sigh--
-theirs in relief, mine in awe. Every lesion was gone. Their eyes glistened with
-tears as they thanked Dr. Lin for returning a sense of normalcy to their lives.
-Afterwards, he explained to me that the results were due to a new trial protocol
-in which immunotherapy is administered with concurrent radiation therapy. In
-curiosity, I asked him for literature on this combined treatment method. As I
-read the papers, I was impressed by the potential of this synergistic use of
-radiation therapy in medicine-- it had saved the patient from certain death.
+jovial personality began to ease them and melt the visible tension on their
+faces. Then, he pulled up an FDG scan with today's date, and we all let out a
+sigh-- theirs in relief, mine in awe. Every lesion was gone. Their eyes
+glistened with tears as they thanked Dr. Lin for returning a sense of normalcy
+to their lives. Afterwards, he explained to me that the results were due to a
+new trial protocol in which immunotherapy is administered with concurrent
+radiation therapy. In curiosity, I asked him for literature on this combined
+treatment method. As I read the papers, I was impressed by the potential of this
+synergistic use of radiation therapy in medicine-- it had saved the patient from
+certain death.
 
 I continued to shadow Dr. Lin and observed his impeccable bedside manners. One
 of his patients was particularly irate; with fists clenched, he threatened to
 change hospitals due to numerous miscommunications with staff about his
-treatment schedule. Dr. Lin acknowledged the patient's frustration,
-compassionately explaining why he could provide the best treatment for him.
+treatment schedule. Dr. Lin acknowledged the patient's frustration and
+compassionately explained why he could provide the best treatment for him.
 Within ten minutes, the patient thanked Dr. Lin for convincing him to stay. I
 was astonished by his ability to console patients; he made tears disappear and
 frustrations fizzle. Listening to patients talk about their struggles with
@@ -64,5 +65,5 @@ recurrence near these structures cannot be treated multiple times with this
 method. By applying the skills I gained from my research in particle physics, I
 can improve imaging to detect cancer earlier or discover safer methods to fight
 cancer allowing me to impact the lives of more than just my patients. Certainly,
-I cannot save every patient, but at least I can give all of them an optimistic,
+I cannot save every patient, but at least I can give all of them an optimistic
 fighting chance.
