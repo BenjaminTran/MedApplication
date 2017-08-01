@@ -47,17 +47,17 @@ The summer following my junior year, I decided to temporarily suspend my work
 with Professor Li to explore medical physics through an internship with MD
 Anderson Cancer Center. I was interested in the application of physics to
 healthcare and was curious to see how my skills from particle physics research
-could translate to the field of medicine. I worked with Professor Song Gao,
-Ph.D. on the qualification of a 2D ionization chamber array (ICA) for beam
-quality assurance of linear accelerators used to deliver radiation therapy. The
-2D ICA provided a fast method to measure beam profiles and radiation dose.
-Therefore, it was intended to replace the quality assurance scanner in use at
-the time, which required a tedious setup procedure. I applied my programming
-skills from particle physics research to write batch scripts to
-extract the data from the data collection software and analyze them in Excel. We
-found that the 2D ionization chamber performs on par with the previous scanner
-and qualifies as an appropriate replacement. The analysis is currently being
-written into a publication.
+could translate to the field of medicine. I worked with Assistant Professor Song
+Gao, Ph.D. in the Department of Radiation Physics on the qualification of a 2D
+ionization chamber array (ICA) for beam quality assurance of linear accelerators
+used to deliver radiation therapy. The 2D ICA provided a fast method to measure
+beam profiles and radiation dose. Therefore, it was intended to replace the
+quality assurance scanner in use at the time, which required a tedious setup
+procedure. I applied my programming skills from particle physics research to
+write batch scripts to extract the data from the data collection software and
+analyze them in Excel. We found that the 2D ionization chamber performs on par
+with the previous scanner and qualifies as an appropriate replacement. The
+analysis is currently being written into a publication.
 
 In my senior year, I resumed my work with Professor Li on the Xi analysis
 project. I demonstrated that there is an inverse relationship between the
