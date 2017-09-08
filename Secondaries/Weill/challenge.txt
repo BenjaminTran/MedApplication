@@ -1,6 +1,20 @@
 Please describe a challenge you faced and how you addressed it. Please limit
 your statement to less than 200 words.
 
-In high school one of my closest friends struggled with depression.  I did not
-realize the depth of his depression until one day I was called out of class
-because he had injured himself while at school.
+By the end of my summer internship at CERN, I had nearly completed my monitoring
+software project with the exception of finding the last bug in the sotware. This
+process was delayed by detector commissioning tests preventing me from testing
+my code. A student from MIT was to take my place to finish my project. However,
+I did not want to leave my project incomplete and because I wrote the software,
+I knew that I would be the best person to debug it, so I chose to continue
+working on the project with the MIT student. The challenge was that I would have
+to work remotely from the U.S. making coordination with those at CERN even more
+difficult on top of the many ongoing detector commissioning tests.
+
+The largest problem was that CERN was seven hours ahead, which combined with
+commissioning tests, meant that my software testing had to be done in a narrow
+window during night time at CERN. Therefore, I coordinated with the MIT student
+to produce test cases in order to identify the location of the bug during the
+day and then deploy each test at night when we had access. Eventually, we
+found the bug and was able to officially deploy the software to the detector for
+use.
