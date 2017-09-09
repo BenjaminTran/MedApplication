@@ -1,20 +1,18 @@
-Please describe a challenge you faced and how you addressed it. Please limit
+Please describe a challenge you faced and how you addressed it.  Please limit
 your statement to less than 200 words.
 
 By the end of my summer internship at CERN, I had nearly completed my monitoring
-software project with the exception of finding the last bug in the sotware. This
-process was delayed by detector commissioning tests preventing me from testing
-my code. A student from MIT was to take my place to finish my project. However,
-I did not want to leave my project incomplete and because I wrote the software,
-I knew that I would be the best person to debug it, so I chose to continue
-working on the project with the MIT student. The challenge was that I would have
-to work remotely from the U.S. making coordination with those at CERN even more
-difficult on top of the many ongoing detector commissioning tests.
+software project with the exception of completely debugging the software, which
+was delayed by detector commissioning tests preventing me from testing my code.
+A student from MIT was to take my place to finish my project, however, I did not
+want to leave it incomplete and because I wrote the software, I knew that I
+would be the best person to debug it.  I chose to continue working on the project
+with the MIT student after I returned to the US.
 
 The largest problem was that CERN was seven hours ahead, which combined with
 commissioning tests, meant that my software testing had to be done in a narrow
-window during night time at CERN. Therefore, I coordinated with the MIT student
-to produce test cases in order to identify the location of the bug during the
-day and then deploy each test at night when we had access. Eventually, we
-found the bug and was able to officially deploy the software to the detector for
-use.
+window during the night at CERN.  Therefore, I coordinated with the MIT student
+to design test cases in order to narrow down the location of the bug during the
+day and then deploy each test at night when we had access to observe the
+behavior of the system.  After several days, we located and fixed the bug and
+officially deployed the software to the detector for use.
