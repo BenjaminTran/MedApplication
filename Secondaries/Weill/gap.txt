@@ -1,19 +1,5 @@
-If you are not attending college during the coming academic year, what are your
-plans? Please limit your statement to less than 200 words.
+If you are not attending college during the coming academic year, what are your plans? Please limit your statement to less than 200 words.
 
-During this coming academic year, I am working as a full time researcher for
-Assistant Professor Wei Li in Physics and Astronomy at Rice University.  I am
-currently working on two research projects; continuing my main analysis from my
-senior thesis as well as collaborating with the postdoctoral researcher in our
-group on his analysis.  I have tentative plans to return to the European
-Organization for Nuclear Research (CERN) for the first half of 2018 to work on
-the redevelopment of the Compact Muon Solenoid (CMS) Web-Based Monitoring
-System.  Should I not return to CERN I will continue working for Professor Wei
-Li full-time.
+During this coming academic year, I am working as a full time researcher for Assistant Professor Wei Li in Physics and Astronomy at Rice University.  I am currently working on two research projects; continuing my main analysis from my senior thesis as well as collaborating with the postdoctoral researcher in our group on his analysis.  I have tentative plans to return to the European Organization for Nuclear Research (CERN) for the first half of 2018 to work on the redevelopment of the Compact Muon Solenoid (CMS) Web-Based Monitoring System.  Should I not return to CERN I will continue working for Professor Wei Li full-time.
 
-Aside from my research work, I am also engaging in developing my interests.  I
-am auditing two courses in Deep Learning and Quantum Field Theory at Rice this
-semester as well as a statistical methods course offered by particle physicists
-at Brown University through CERN.  I am participating in these courses out of
-interest but also with hopes that I may be able to pursue applications of deep
-learning and statistics in medicine.
+Aside from my research work, I am also engaging in developing my interests.  I am auditing two courses in Deep Learning and Quantum Field Theory at Rice this semester as well as a statistical methods course offered by particle physicists at Brown University through CERN.  I am participating in these courses out of interest but also with hopes that I may be able to pursue applications of deep learning and statistics in medicine.
