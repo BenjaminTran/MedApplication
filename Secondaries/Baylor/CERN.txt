@@ -4,37 +4,37 @@ employment, extracurricular activities, prevailing over adversity. You may
 expand upon but not repeat AMCAS application information. 2000 character limit.
 
 I had always wanted to visit the European Organization for Nuclear Research
-(CERN) in Switzerland ever since I heard about it as a child. When my PI
-offered me a summer internship at CERN I jumped on the opportunity. The
-experience opened me up to the world outside of the U.S. and allowed me to
-explore myself.
+(CERN) in Switzerland ever since I had heard about it as a child. So, when my PI
+offered me a summer internship at CERN, I jumped on the opportunity. The
+experience pushed me outside of my comfort zone and taught me many important
+life skills.
 
-Throughout my internship, I often found myself extended outside of my comfort
-zone. I undertook a large responsibility creating the front end software for the
-channel monitoring system and I gained many skills in the process. In
-particular, interacting and collaborating with top physicists from all around
-the world during my internship gave me a significant experience working in a
-team environment. However, one of the most important skills I developed was
-asking the right questions. Due to the commissioning of the detector, the
-software experts had very busy schedules and so I had limited time to ask
-questions. This forced me to learn how to craft questions that would lead to
-information dense answers, a skill that is useful for physicians.
+In my work at CERN, I gained many skills that have proved useful, but one of the
+most important skills was being able to ask the right questions. Since my work
+was completely software related, I often needed to consult with the relevant
+experts. However, due to the commissioning of the detector, those experts had
+busy schedules limiting the time I had to ask them questions. This forced me to
+craft questions that would lead to information dense answers, which I was able
+to use to infer answers to other questions I had. This skill has been very
+useful and is one that physicians need in order to acquire as much information
+from the patient as efficiently as possible.
 
 Aside from the work experience I gained during my internship, I acquired
 perspective about myself and the world. I discovered my love for the unbridled
 peace of the mountains while hiking in the Swiss Juras and Alps. I also became
-more self-reliant and confident as I travelled alone allowing me to overcome my
-anxiety of talking to people from completely different backgrounds, which I
-realized was among the most interesting aspects of travelling. I learned about
-how other people live and what other people find important in life leading me to
-ask myself that question-- ultimately leading me to pursue medicine.
+more confident as I travelled alone forcing me to overcome my anxiety of
+striking up conversations with people whom I may have nothing in common. My
+views broadened as I talked to others and learned about how their culture
+influenced what they believe is important in life. This led me to ask myself
+what I thought was most important in my life and what I really wanted to do with
+it, which ultimately led to my decision to pursue medicine.
 
-It was a lasting experience that instructed me in how to work and how to live.
-Since then, I have applied the skills that I developed in my research and work
-and communication. I have also taken every opportunity to travel outdoors to the
-mountains of Colorado or Big Bend in Texas. But more importantly, I appreciate
-everyone's perspective and no longer view different personal backgrounds as a
-social obstacle but as an opportunity to learn more.
+My internship at CERN was an experience that matured my appreciation for life.
+Since then, I have applied the skills that I developed in my research work. I
+have also taken every opportunity to travel outdoors to the mountains of
+Colorado or Big Bend in Texas. But more importantly, I appreciate everyone's
+perspective and no longer struggle with the social obstacles that having
+different personal backgrounds can cause.
 
 I was completely outside of my comfort zone. Until then I had never travelled
 alone and definitely not abroad. However, it forced me to overcome 
@@ -73,3 +73,7 @@ questions to be very important in not only obtaining information but also
 delivering it as well in the sense that I can formulate such questions that my
 audience may have and then preemptively answer them.
 
+In
+particular, interacting and collaborating with top physicists from all around
+the world during my internship gave me a significant experience working in a
+team environment.
