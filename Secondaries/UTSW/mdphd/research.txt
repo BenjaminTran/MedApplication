@@ -1,0 +1,12 @@
+Describe the type of research you are currently most interested in pursuing for
+your PhD training. You can be general or specific (e.g., genetics, biochemistry,
+protein structure/function studies, rational drug design, Alzheimer's disease,
+etc.)
+
+I have multiple interests and want to explore the potential avenues of research
+at Southwestern. I am currently interested in imaging techniques and methods and
+their applications in identifying illnesses such as cancer or improving our
+understanding of the human body. I am also interested in computational methods
+of big data analysis such as in machine learning or deep learning and its
+application to many areas of research in medicine such as protein folding,
+pharmaceutical drug discovery, bioinformatics, and imaging once again.
